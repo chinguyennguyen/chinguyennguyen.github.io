@@ -7,4 +7,14 @@ nav: true
 nav_order: 6
 ---
 
-Introduction to Microeconomics, Bachelor level
+## Courses Taught
+- Introduction to Microeconomics (Bachelor level), University of Gothenburg  
+
+## Student Feedback
+Here is an example of anonymous student feedback I received:
+
+![Student feedback screenshot](/assets/img/course_evaluation.png){: width="80%" }
+
+<p style="font-size:0.9em;">
+(Click image to view in full size)
+</p>
