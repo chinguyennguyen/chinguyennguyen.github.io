@@ -7,4 +7,4 @@ nav: true
 nav_order: 6
 ---
 
-Introduction to Microeconomics, Bachelor Level
+Introduction to Microeconomics, Bachelor level
