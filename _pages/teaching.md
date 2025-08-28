@@ -10,10 +10,10 @@ nav_order: 6
 
 <div style="flex: 1;">
 
-## Courses Taught
-Introduction to Microeconomics (Bachelor level), University of Gothenburg  
+### Courses Taught
+- Introduction to Microeconomics (Bachelor level), University of Gothenburg  
 
-## Student Feedback
+### Student Feedback
 I enjoy teaching. It gives me the immediate reward that takes time in research. Feedback from students (like this) makes my day!
 
 </div>
@@ -27,4 +27,3 @@ I enjoy teaching. It gives me the immediate reward that takes time in research. 
 </div>
 
 </div>
-
