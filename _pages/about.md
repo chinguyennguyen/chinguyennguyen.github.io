@@ -29,4 +29,4 @@ latest_posts:
 
 Welcome! I’m a Ph.D. candidate in Economics at the University of Gothenburg, where my research focuses on the intersection of labor economics and political economy. I study how individuals make choices under constraints — from marriage and intra-household bargaining to civic participation — using causal inference and machine learning methods. My work translates complex data into clear policy recommendations. 
 
-I look forward to applying my statistical skills and economic theory insights to data science and analytics roles in industry, and I'm available to start from **June 2026. **
+I look forward to applying my statistical skills and economic theory insights to data science and analytics roles in industry, and I'm available to start from **June 2026.**
