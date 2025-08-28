@@ -11,7 +11,7 @@ nav_order: 6
   <!-- Left column -->
   <div style="flex: 1;" markdown="1">
 
-### Courses Taught
+### courses taught
 - Introduction to Microeconomics (Bachelor level), University of Gothenburg  
 
   </div>
@@ -19,7 +19,7 @@ nav_order: 6
   <!-- Right column -->
   <div style="flex: 1;" markdown="1">
 
-### Student Feedback
+### student feedback
 I enjoy teaching. It gives me the immediate reward that takes time in research. Feedback from students (like this) makes my day!
 
 <img src="/assets/img/course_evaluation.png" alt="Student feedback" style="max-width:400px; width:100%; margin-top:10px;">
