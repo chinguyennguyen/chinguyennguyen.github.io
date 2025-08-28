@@ -2,19 +2,26 @@
 layout: page
 permalink: /teaching/
 title: teaching
-# description: Materials for courses you taught. Replace this text with your description.
 nav: true
 nav_order: 6
 ---
+
+<div style="display: flex; align-items: flex-start; gap: 30px;">
+
+<div style="flex: 1;">
 
 ## Courses Taught
 - Introduction to Microeconomics (Bachelor level), University of Gothenburg  
 
 ## Student Feedback
-Here is an example of anonymous student feedback I received:
+Students consistently praised clarity of explanations and engagement.  
+Here is an example of anonymous feedback:
 
-![Student feedback screenshot](/assets/img/course_evaluation.png){: width="80%" }
+</div>
 
-<p style="font-size:0.9em;">
-(Click image to view in full size)
-</p>
+<div style="flex: 1; text-align: center;">
+  <img src="/assets/img/course_evaluation.png" alt="Student feedback" width="100%">
+  <p style="font-size:0.8em; color:gray;">Excerpt from course evaluation (2024)</p>
+</div>
+
+</div>
