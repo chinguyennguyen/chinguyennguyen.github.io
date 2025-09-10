@@ -3,7 +3,7 @@ layout: page
 permalink: /teaching/
 title: teaching
 nav: true
-nav_order: 6
+nav_order: 7
 ---
 
 <div style="display: flex; align-items: flex-start; gap: 30px;">
