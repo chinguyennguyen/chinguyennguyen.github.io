@@ -20,9 +20,9 @@ I study the daughter effect on parental voting. I find that fathers, and not mot
 
 I study the effect of early voting rights in local elections for immigrants, exploiting the discontinuity for people arriving around the cutoff of three years to an election year. I found no significant improvement in long-term economic integration measures.
 
-**Machine Learning Models for Voter Turnout Prediction**
+**Improving Voter Turnout Prediction**
 
-I build machine learning models to predict individual voting behavior using Swedish population voting records. I analyze prediction heterogeneity across geographic regions and demographic characteristics to identify key drivers of turnout.
+I build XGBoost models to predict individual voting behavior using Swedish population register data (2018-2022). I analyze prediction heterogeneity across geographic regions and demographic characteristics to identify key drivers of turnout.
 
 ---
 
