@@ -29,12 +29,4 @@ I build machine learning models to predict individual voting behavior using Swed
 
 ---
 
-<!-- Bibsearch Feature -->
 
-{% include bib_search.liquid %}
-
-<div class="publications">
-
-{% bibliography %}
-
-</div>
