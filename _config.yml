@@ -7,10 +7,7 @@ first_name: Chi
 middle_name: ""
 last_name: Nguyen
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  I'm a fifth-year Economics Ph.D. candidate at the University of Gothenburg, Sweden. My dissertation examines voting behavior and immigrant integration policies using Swedish administrative data.
-  I'm seeking Data Scientist positions in Berlin, Germany (available June 2026) where I can apply econometric methods and predictive modeling to extract actionable insights from complex datasets. My research background has equipped me with expertise in behavioral analysis, demand forecasting, inventory optimization, and supply chain analytics—skills I'm eager to apply in data-driven business environments.
 footer_text: >
   University of Gothenburg 
 keywords: data science, phd, research, economics, machine learning, statistics, python
