@@ -2,18 +2,15 @@
 layout: page
 permalink: /research/
 title: research
-description: My research examines political behavior and policy evaluation using causal inference and machine learning methods.
+description: My dissertation focuses on voting behavior and immigrant integration policies using Swedish administrative data. I combine econometric methods with machine learning to understand political participation patterns and evaluate policy effectiveness.
+
 nav: true
 nav_order: 2
 ---
 
 <!-- _pages/publications.md -->
 
-## Research Overview
-
-My dissertation focuses on voting behavior and immigrant integration policies using Swedish administrative data. I combine econometric methods with machine learning to understand political participation patterns and evaluate policy effectiveness.
-
-## Work in Progress
+## work-in-progress
 
 **The Daughter Effect on Parental Voting**
 
