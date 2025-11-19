@@ -26,9 +26,9 @@ latest_posts:
 
 <div style="text-align: justify;">
 
-Hi! I'm a fifth-year Economics Ph.D. candidate at the University of Gothenburg. My dissertation examines voting behavior and immigrant integration policies using Swedish administrative data.
+Hi! I study voting behavior and immigrant integration policies using Swedish administrative data.
 
-My research combines econometric methods with machine learning to understand complex behavioral patterns. I'm particularly interested in applying causal inference, predictive modeling, and large-scale data analysis to real-world challenges in consumer analytics, demand forecasting, and supply chain optimization.
+My dissertation combines econometric methods with machine learning to understand complex behavioral patterns. I want to causal inference, predictive modeling, and large-scale data analysis to real-world challenges in consumer analytics, demand forecasting, and supply chain optimization.
 
 I'm currently seeking Data Scientist positions in Berlin, Germany, with availability starting June 2026.
 
