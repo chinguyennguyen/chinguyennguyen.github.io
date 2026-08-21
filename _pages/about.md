@@ -24,7 +24,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi! I study voting behavior and immigrant integration policies using Swedish administrative data. My dissertation combines econometric methods with machine learning to understand complex behavioral patterns. 
+Hi! I study voting behavior and immigrant integration policies using Swedish administrative data, combining econometric methods with machine learning to understand complex behavioral patterns. My main projects sit in political economics and immigration and integration, though my personal interests lean toward behavioral economics and game theory. I'm on the job market for research positions in both academia and industry, and will be relocating to Berlin, Germany in October 2026.
 
-I want to apply causal inference, predictive modeling, and large-scale data analysis to real-world challenges in consumer analytics, demand forecasting, and supply chain optimization. I'm currently seeking Data Scientist positions in Berlin, Germany, with availability starting June 2026.
+I enjoy teaching as much as learning from others — I may not be the quickest learner, but I'm a persistent one. Outside of research, I've picked up a few old-lady hobbies: painting, photography, soap making, and flower arranging (plus an ongoing devotion to crime shows). I've also worked as a wedding planner.
 
