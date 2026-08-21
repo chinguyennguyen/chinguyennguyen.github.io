@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-research",
           title: "research",
-          description: "My dissertation focuses on voting behavior and immigrant integration policies using Swedish administrative data. I combine econometric methods with machine learning to understand political participation patterns and evaluate policy effectiveness.",
+          description: "My dissertation, &quot;Social Spillovers in Political Participation,&quot; focuses on voting behavior and immigrant integration policies using Swedish administrative data. I combine econometric methods with machine learning to understand political participation patterns and evaluate policy effectiveness.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/research/";
@@ -22,6 +22,13 @@ ninja.data = [{
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
+          },
+        },{id: "nav-projects",
+          title: "projects",
+          description: "A growing collection of your cool projects.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/projects/";
           },
         },{id: "nav-teaching",
           title: "teaching",
@@ -283,6 +290,17 @@ ninja.data = [{
             window.location.href = "/blog/2022/giscus-comments/";
           
         },
+      },{id: "post-displaying-external-posts-on-your-al-folio-blog",
+        
+          title: 'Displaying External Posts on Your al-folio Blog <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
+          
+        },
       },{id: "post-a-post-with-redirect",
         
           title: "a post with redirect",
@@ -438,6 +456,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-job-scraper-amp-tracker",
+          title: 'Job Scraper &amp;amp; Tracker',
+          description: "A personal tool for scraping and tracking job applications",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/job_scraper/";
             },},{
         id: 'social-cv',
         title: 'CV',
